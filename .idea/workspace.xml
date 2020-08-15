@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87533da-2956-478a-b5b6-acdd30f07b0f" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Test_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c87533da-2956-478a-b5b6-acdd30f07b0f" name="默认的" comment="默认的">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/基础数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/基础语法/基础数据类型.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,13 +317,29 @@
       <option name="presentableId" value="Default" />
       <updated>1592472530539</updated>
     </task>
+    <task id="LOCAL-00001" summary="默认的">
+      <created>1597498920092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597498920092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认的" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597487496728">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597487496728" />
+    <state x="2566" y="116" key="CommitChangelistDialog2" timestamp="1597498918400">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2566" y="116" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597498918400" />
     <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1597498353536">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
