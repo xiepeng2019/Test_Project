@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c87533da-2956-478a-b5b6-acdd30f07b0f" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/Test_Jenkins/Jenkins_基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Kafka/基础kafka.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Mock/基础Mock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test_Redis/基础Redis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/写入文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/基础语法/写入文件.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597498989405</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="默认的">
+      <created>1597499541395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597499541395</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -349,10 +353,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="258" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597487496728" />
-    <state x="2566" y="116" key="CommitChangelistDialog2" timestamp="1597498988153">
+    <state x="2566" y="116" key="CommitChangelistDialog2" timestamp="1597499540062">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2566" y="116" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597498988153" />
+    <state x="2566" y="116" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597499540062" />
     <state x="2660" y="278" key="FileChooserDialogImpl" timestamp="1597498353536">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -403,19 +407,19 @@
     </state>
     <state x="272" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597496863539" />
     <state x="2260" y="72" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597498730049" />
-    <state x="2472" y="256" key="Vcs.Push.Dialog.v2" timestamp="1597499524789">
+    <state x="2472" y="256" key="Vcs.Push.Dialog.v2" timestamp="1597499548791">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="256" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597499524789" />
+    <state x="2472" y="256" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597499548791" />
     <state x="2496" y="303" key="com.intellij.ide.util.TipDialog" timestamp="1597487899413">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1597476771222" />
     <state x="2496" y="303" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597487899413" />
-    <state x="2674" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597495028792">
+    <state x="2674" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597501018133">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2674" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597495028792" />
+    <state x="2674" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597501018133" />
     <state x="2446" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597491495812">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
