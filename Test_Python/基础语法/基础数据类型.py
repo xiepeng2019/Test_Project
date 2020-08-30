@@ -161,3 +161,87 @@ else:
     print("执行成功")
 finally:
     print("执行数据清理")
+
+
+import json
+"""格式化输出"""
+# name = input("name>>>:")
+# age = input("age>>>:")
+# print("my name is {},my age is {}".format(name,age))
+
+"""字典插入数据"""
+# a = {"name":"lisi","age":27,"sex":"nan"}
+# a["student"]="xiepeng"
+# print(a)
+"""删除字典数据"""
+# del a ["name"]
+# print(a)
+"""字典转成json"""
+# b = json.dumps(a)
+# print(type(b))
+"""常量字符串拼接，注：变量需要+进行拼接，并且不同类型需要先转换成字符串"""
+# bytes_1 = "Python教程""http://c.biancheng.net/python/"
+# print(bytes_1)
+"""字符串截取,从第七个开始截图，不包含22的下标"""
+# url = 'http://c.biancheng.net/java/'
+# print(url[7:22])
+
+"""字符串的分割"""
+# b = "C语言中文网 >>> c.biancheng.net"
+# list1 = b.split('>>>')
+# print(list1)
+
+"""字符串合并"""
+# list = ['c', 'biancheng', 'net']
+# print(type('.'.join(list)))
+
+"""字符串统计"""
+#从下标2开始进行统计
+# str = "c.biancheng.net"
+# print(str.count('.',2))
+
+"""查找字符串中的子串"""
+# str = "c.biancheng.nect"
+# print(str.find('c',1,-1))
+"""
+1、startswith用于检索字符串是否以指定字符开头，是：response->true，否：response->false
+2、endswith用于检索字符串是否以指定字符串结尾,是：response->true，否：response->false
+3、字符串大小写转换：
+    title:将每个单词首字母转成大写，其余小写str.title()
+    lower:将字符串中的所有大写字母转换为小写字母，该方法会返回新得到的字符串str.lower()
+    upper:将字符串中的所有小写字母转换为大写字母str.upper()
+4、去除字符串中的空格
+    strip()：删除字符串前后（左右两侧）的空格或特殊字符
+    lstrip()：删除字符串前面（左边）的空格或特殊字符
+    rstrip()：删除字符串后面（右边）的空格或特殊字符
+"""
+
+"""自定义函数len"""
+# def my_lenth(str):
+#     n = 0
+#     for _ in str:
+#         n = n + 1
+#     return n
+#
+# a = my_lenth('2132dsadsa')
+# print(a)
+
+"""return表达式的值"""
+# def str_max(str,str1):
+#     return str if str>str1 else str1
+# b = str_max('23','32')
+# print(b)
+
+"""函数return返回值"""
+# def add(a,b):
+#     c = a + b
+#     return c
+# d = add(5,6)
+# print(d)
+"""函数中可以有多个return，但只执行一个，立即结束"""
+def isGreater(x):
+    if x > 0:
+        return True
+    else:
+        return False
+print(isGreater(-9))
