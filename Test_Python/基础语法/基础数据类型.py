@@ -151,16 +151,16 @@ import json
 # c = json.loads(b)
 # print(type(c))
 """filter过滤和异常处理"""
-try:
-    a = list(filter(lambda x:x>10,[1,2,3,4,5,6,7,8,9,12,34,56,33,22,11,77]))
-    print(type(a))
-    print(isinstance(a,list))
-except SyntaxError:
-    print("语法错误，请检查语法")
-else:
-    print("执行成功")
-finally:
-    print("执行数据清理")
+# try:
+#     a = list(filter(lambda x:x>10,[1,2,3,4,5,6,7,8,9,12,34,56,33,22,11,77]))
+#     print(type(a))
+#     print(isinstance(a,list))
+# except SyntaxError:
+#     print("语法错误，请检查语法")
+# else:
+#     print("执行成功")
+# finally:
+#     print("执行数据清理")
 
 
 import json
@@ -235,13 +235,39 @@ import json
 """函数return返回值"""
 # def add(a,b):
 #     c = a + b
-#     return c
+#     return c·
 # d = add(5,6)
 # print(d)
 """函数中可以有多个return，但只执行一个，立即结束"""
-def isGreater(x):
-    if x > 0:
-        return True
-    else:
-        return False
-print(isGreater(-9))
+# def isGreater(x):
+#     if x > 0:
+#         return True
+#     else:
+#         return False
+# print(isGreater(-9))
+"""日志"""
+import logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)-16s %(levelname)-8s''%(message)s')
+# def add_test(a=0,b=0):
+#     logging.info("[当前执行的函数是]:{}".format(add_test.__name__))
+#     logging.info("[参数a]:{}".format(a))
+#     logging.info("[参数b]:{}".format(b))
+#     c= a+b
+#     return c
+# n = add_test(8,7)
+
+"""回调函数"""
+def use_logging(func,*args,**kwargs):
+    logging.info("[当前调用的函数是]：{}".format(func.__name__))
+    for i in range(len(args)):
+        logging.info("[第{}个参数是]：{}".format(i,args[i]))
+    for k,v in kwargs:
+        logging.info("[key is :{} value is :{}]".format(k,v))
+    return func(*args,**kwargs)
+
+def add(a,b):
+    c = a + b
+    return c
+use_logging(add,88,77)
+
+
