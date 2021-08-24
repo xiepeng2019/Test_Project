@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87533da-2956-478a-b5b6-acdd30f07b0f" name="默认的" comment="2020-8-30学习">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Test_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Test_Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c87533da-2956-478a-b5b6-acdd30f07b0f" name="默认的" comment="2021-8-24学习">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/address" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/basic_grammar/address" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/写入文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/basic_grammar/写入文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/基础数据类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/basic_grammar/基础数据类型.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/学习记录.md" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/basic_grammar/学习记录.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Python/基础语法/第三方库urllib.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Python/basic_grammar/第三方库urllib.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test_Selenium/test_selenium_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_Selenium/test_selenium_data.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,84 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/address">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/写入文件.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/学习记录.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Selenium/V41/base_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Selenium/base_class.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Selenium/test_selenium_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test_Selenium/runner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#45#74#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/基础数据类型.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/第三方库urllib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -123,6 +44,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Test_Selenium/test_selenium_data.py" />
+        <option value="$PROJECT_DIR$/Test_Python/basic_grammar/学习记录.md" />
       </list>
     </option>
   </component>
@@ -541,7 +463,7 @@
       <updated>1592472530539</updated>
       <workItem from="1629777024284" duration="1061000" />
       <workItem from="1629790815443" duration="1299000" />
-      <workItem from="1629792647982" duration="629000" />
+      <workItem from="1629792647982" duration="1347000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1597498920092</created>
@@ -613,11 +535,18 @@
       <option name="project" value="LOCAL" />
       <updated>1599376856016</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2021-8-24学习">
+      <created>1629793671596</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1629793671596</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2989000" />
+    <option name="totallyTimeSpent" value="3707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1792" height="1120" extended-state="0" />
@@ -636,7 +565,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.8502857" side_tool="true" weight="0.2952381" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.14971429" visible="true" weight="0.2952381" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.14971429" visible="true" weight="0.507619" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -661,7 +590,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="默认的" />
     <MESSAGE value="2020-8-30学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-8-30学习" />
+    <MESSAGE value="2021-8-24学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021-8-24学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="521" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599317934186">
@@ -765,35 +695,29 @@
     <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597490736678" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/address">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/写入文件.py">
+    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/第三方库urllib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/学习记录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Selenium/V41/base_class.py">
+    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/基础数据类型.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Selenium/base_class.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Test_Selenium/runner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="e#45#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_Selenium/test_selenium_data.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -805,27 +729,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/基础数据类型.py">
+    <entry file="file://$PROJECT_DIR$/Test_Selenium/base_class.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Selenium/V41/base_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        <state relative-caret-position="308">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/第三方库urllib.py">
+    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/写入文件.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="19" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Selenium/runner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#45#74#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/address">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Python/basic_grammar/学习记录.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
