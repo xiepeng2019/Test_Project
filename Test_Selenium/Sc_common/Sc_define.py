@@ -1,7 +1,6 @@
 #!/usr/bin/python3.7
 # -*- coding: utf-8 -*-
-from common.common_func import *
-
+from Test_Selenium.common.common_func import *
 
 class ResDefine:
     dft_url_port = '10219'

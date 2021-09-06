@@ -1,7 +1,13 @@
-import gevent
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+# __author__ = "xiepeng"
+# Date: 2021/09/06
 
+import gevent
 from gevent import queue
 q1 = queue()
+
+
 def consumer(name):
     while not q1.empty():
         print('%s 从队列获取数据 %s' % (name, q1.get()))

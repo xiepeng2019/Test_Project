@@ -1,4 +1,11 @@
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+# __author__ = "xiepeng"
+# Date: 2021/09/06
+
+import logging
 from collections import Iterable
+logging.basicConfig(level=logging.INFO, format='%(asctime)-16s %(levelname)-8s%(message)s')
 
 
 """
@@ -83,8 +90,8 @@ from collections import Iterable
 # print(a)
 
 """logging使用"""
-import logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)-16s %(levelname)-8s%(message)s')
+
+
 # def loging(a=0,b=0):
 #     logging.info("[正在执行的函数是]：{}".format(loging.__name__))
 #     logging.info("[参数a为]：{}".format(a))
@@ -238,16 +245,20 @@ import json
 #     return c·
 # d = add(5,6)
 # print(d)
+
+
 """函数中可以有多个return，但只执行一个，立即结束"""
+
 # def isGreater(x):
 #     if x > 0:
 #         return True
 #     else:
 #         return False
 # print(isGreater(-9))
+
+
 """日志"""
-import logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)-16s %(levelname)-8s''%(message)s')
+
 # def add_test(a=0,b=0):
 #     logging.info("[当前执行的函数是]:{}".format(add_test.__name__))
 #     logging.info("[参数a]:{}".format(a))

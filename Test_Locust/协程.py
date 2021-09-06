@@ -1,3 +1,8 @@
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+# __author__ = "xiepeng"
+# Date: 2021/09/06
+
 import time
 import gevent.monkey
 gevent.monkey.patch_socket()

@@ -1,4 +1,11 @@
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
+# __author__ = "xiepeng"
+# Date: 2021/09/06
+
 import urllib3
+
+
 # http = urllib3.PoolManager()
 # r = http.request('get','http://www.baidu.com',timeout = 4.0)
 # print(r.status)
@@ -6,13 +13,13 @@ import urllib3
 
 
 
-# import re
-# print(re.match("func", "function"))
+import re
+print(re.match("func", "function"))
 
 
-# lst=[1,3,5,3,4,4,2,9,6,7]
-# r = [x for x in lst if lst.count(x)==1]
-# print(r)
+lst=[1,3,5,3,4,4,2,9,6,7]
+r = [x for x in lst if lst.count(x)==1]
+print(r)
 
 
 
