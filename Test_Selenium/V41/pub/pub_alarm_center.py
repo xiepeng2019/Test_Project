@@ -1,12 +1,12 @@
 #!/usr/bin/python3.7
 # -*- coding: utf-8 -*-
-from common import common_func
-from sc_common.sc_define import TaskDefine, define_camera
-from common.common_func import shadow
-from v43.pub.pub_base import PublicClass
+from Test_Selenium.common import common_func
+from Test_Selenium.sc_common.sc_define import TaskDefine, define_camera
+from Test_Selenium.common.common_func import shadow
+from Test_Selenium.v43.pub.pub_base import PublicClass
 import time
-from sc_common.sc_define import ResDefine
-from v43.ele_set.page_alarm_center import AlarmCenterPageEle
+from Test_Selenium.sc_common.sc_define import ResDefine
+from Test_Selenium.v43.ele_set.page_alarm_center import AlarmCenterPageEle
 
 
 class AlarmCenterAction(PublicClass):

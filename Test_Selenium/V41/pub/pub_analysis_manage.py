@@ -132,7 +132,6 @@ class AnalysisAction(PublicClass):
     @shadow("解析管理-上传文件到云盘")
     def add_cloud_file(self, file="", folder=""):
         """
-
         :param file:
         :param folder:
         :return:
