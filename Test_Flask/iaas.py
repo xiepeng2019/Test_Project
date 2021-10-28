@@ -1,1 +1,0 @@
-print(len("bytedance@C02FT5MRMD6RTest_Project%gitpushoriginmasterbytedance@C02FT5MRMD6RTest_Project%gitpushoriginmasterbytedance@C02FT5MRMD6RTest_Project%gitpushoriginmasterbytedance@C02FT5MRMD6RTest_Project%gitpushoriginmaster"))
